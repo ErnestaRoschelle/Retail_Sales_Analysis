@@ -17,7 +17,7 @@ The retail company has significant amount of data on its sales category wise ,ag
 
 The SQL queriesutilized to inspect and perfor quality checks can be ound here
 
-The SQL queries utilized to answer business questions can be found here
+The SQL queries utilized to answer business questions can be found here[https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql]
 
 
 
