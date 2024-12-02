@@ -17,7 +17,7 @@ The retail company has significant amount of data on its sales category wise ,ag
 
 The SQL queriesutilized to inspect and perfor quality checks can be ound here
 
-The SQL queries utilized to answer business questions can be found here[https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql]
+The SQL queries utilized to answer business questions can be found _[here](https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql)
 
 
 
@@ -67,7 +67,7 @@ The company’s sales peaked at 535.5M in 2023 but declined to 464.2M by year-en
 -- Q.9 Write a SQL query to find the number of unique customers who purchased items from each category.
 -- Q.10 Write a SQL query to create each shift and number of orders (Example Morning <=12, Afternoon Between 12 & 17, Evening >17)
 
-Query used to answer these business questions can be found here
+Query used to answer these business questions can be found  _[here](https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql)
 
 ## 5.Recommendation
 
