@@ -29,5 +29,38 @@ The retail_sales table consists of 11 columns with a total row count of 2000 rec
 
 
 ## 3.Executive Summary
+
+The company’s sales peaked at 535.5M in 2023 but declined to 464.2M by year-end, with a minor peak in August. Starting at 396.5M in 2022 and 397.1M in 2023, sales rose to 490.4M and 464.2M, respectively, but failed to sustain momentum. The following sections explore contributing factors and improvement opportunities.
+
+### Overview of findings
+
+![Screenshot 2024-12-02 133810](https://github.com/user-attachments/assets/a67b5865-4ddd-4990-84c5-16f2a75f75e8)
+
+
 ## 4.Insights Deep Dive
+
+### Sales Trend
+
+•In 2022, sales began at 23K, rising steadily to 62K in September and peaking at 73K in December. 
+
+•Similarly, 2023 started with 24K sales, increased to 67K in September, but dipped slightly in subsequent months, ending at 69K—below the total sales of 2022. 
+
+•Notably, both years saw a sharp sales spike in September, with sales doubling after August, indicating a recurring seasonal trend.
+
+### Age and Category-wise Segmentation
+
+•In 2023, middle-aged adults contributed the highest sales, while adults recorded 194K sales in 2022.
+
+•Teens accounted for the lowest sales, with 37K in 2022 and 19K in 2023. By category, electronics led sales in 2023 with 162K, while beauty products topped 2022 with 152K.
+
+### Premium
+
+
+
 ## 5.Recommendation
+
+•While sales performed well in the last four months of 2022 and 2023, the initial months showed comparatively lower numbers. Strengthening strategies to boost early-year sales is crucial.
+
+•Enhancing marketing efforts for underperforming categories could significantly drive growth.
+
+•Expanding the Electronics category with new product lines offers potential for increased sales through upselling opportunities.
