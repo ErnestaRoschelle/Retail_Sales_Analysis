@@ -13,7 +13,7 @@ The retail company has significant amount of data on its sales category wise ,ag
 
 **• Peak seasonality** :Detected best selling month in each year
 
-**• Order count saletime  and age groups**  :Analyzed the number of orders placed (morning,afternoon,evening) and by age(teen,adult,middle ge,senior adult)
+**• Category and Demographics preferences**  :Analyzed the number of orders placed (morning,afternoon,evening) and by age(teen,adult,middle ge,senior adult)
 
 The SQL queries utilized to answer business questions can be found [here](https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql)
 
