@@ -3,34 +3,29 @@
 ## 1.Background and Overview
 
 
-The retail company has significant amount of data on its sales category wise ,age and gender, sale date and sale time that has been previously underutilized.This project thorughly analyses and synthesizes data to uncover critical insights to improve the health of the retail.The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance
+The retail company has significant amount of data on its sales category wise ,age and gender, sale date and sale time that has been previously underutilized.This project thoroughly analyses and synthesizes data to uncover critical insights to improve the health of the retail.The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance
 
-##### Insights and recommendation are provided on the following key areas:
+**Insights and recommendation are provided on the following key areas:**
 
  **• Sales Trends Analysis** :Evaluated sales pattern,focusing on total revenue and total orders
 
-**• Premium sales** : diagonised transactions greater than a target value
+**• Premium sales** :Diagonised transactions greater than a target value
 
-**• Peak seasonality** : Detected best selling month in each year
+**• Peak seasonality** :Detected best selling month in each year
 
 **• Order count saletime  and age groups**  :Analyzed the number of orders placed (morning,afternoon,evening) and by age(teen,adult,middle ge,senior adult)
 
-The SQL queriesutilized to inspect and perfor quality checks can be ound here
-
 The SQL queries utilized to answer business questions can be found [here](https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql)
-
-
 
 ## 2.Data Structure and Overview
 
-The retail_sales table consists of 11 columns with a total row count of 2000 records
+The retail_sales table consists of **11 columns** with a total row count of **2000 records**
 
 ![Screenshot 2024-11-30 204424](https://github.com/user-attachments/assets/73374314-e2f9-468a-a93c-a6b5f3e082c5)
 
-
 ## 3.Executive Summary
 
-The company’s sales peaked at 535.5M in 2023 but declined to 464.2M by year-end, with a minor peak in August. Starting at 396.5M in 2022 and 397.1M in 2023, sales rose to 490.4M and 464.2M, respectively, but failed to sustain momentum. The following sections explore contributing factors and improvement opportunities.
+The company’s sales peaked at **535.5M in 2023** but **declined to 464.2M** by year-end, with a minor peak in August. Starting at 396.5M in 2022 and 397.1M in 2023, **sales rose to 490.4M and 464.2M**, respectively, but failed to sustain momentum. The following sections explore contributing factors and improvement opportunities.
 
 ### Overview of findings
 
@@ -47,14 +42,25 @@ The company’s sales peaked at 535.5M in 2023 but declined to 464.2M by year-en
 
 •Notably, both years saw a sharp sales spike in September, with sales doubling after August, indicating a recurring seasonal trend.
 
-### Age and Category-wise Segmentation
+#### Sales trend by age group Analysis
 
 •In 2023, middle-aged adults contributed the highest sales, while adults recorded 194K sales in 2022.
 
 •Teens accounted for the lowest sales, with 37K in 2022 and 19K in 2023. By category, electronics led sales in 2023 with 162K, while beauty products topped 2022 with 152K.
 
-### Data Analysis & Business Key Problems & Answers
+### Category and Demographic Segmentation Analysis
 
+![Uploading Screenshot 2024-12-03 123654.png…]()
+
+**Beauty Dominance in 2022**: Adults placed the highest number of orders in the beauty category, totaling 145, while teens accounted for the lowest orders (12) in the clothing category. This highlights a significant adult preference for beauty products.
+
+**Clothing Orders Surge in 2023**: Middle-aged adults led clothing category orders with 184, the highest across any segment, while teens continued to show minimal engagement, with just 11 orders in the same category.
+
+**Gender-specific Preferences**: Female buyers placed 75 orders in 2022, particularly favoring clothing, which rose to 105 orders in 2023, driven by middle-aged adults. Meanwhile, male buyers had notable orders in clothing in 2022 (72 by middle-aged adults and 82 by adults) but shifted focus in 2023 to electronics, with 92 orders by middle-aged adults.
+
+**Time-based Purchase Trends**: Both genders demonstrated a clear trend of purchasing clothing and beauty products predominantly in the morning, while electronics were preferred later in the day, consistent across 2022 and 2023.
+
+### Data Analysis & Business Key Problems & Answers
 
 -- Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05
 
@@ -85,3 +91,5 @@ Query used to answer these business questions can be found  [here](https://githu
 •Enhancing marketing efforts for underperforming categories could significantly drive growth.
 
 •Expanding the Electronics category with new product lines offers potential for increased sales through upselling opportunities.
+
+•Focus on expanding the availability and variety of clothing, electronics, and beauty products expecially for teen age group which will help maximize sales potential and solidify their role as key economic drivers.
