@@ -50,7 +50,8 @@ The company’s sales peaked at **535.5M in 2023** but **declined to 464.2M** by
 
 ### Category and Demographic Segmentation Analysis
 
-![Uploading Screenshot 2024-12-03 123654.png…]()
+![Screenshot 2024-12-03 123654](https://github.com/user-attachments/assets/499061d4-9054-462f-8daf-cc28931008b9)
+
 
 **Beauty Dominance in 2022**: Adults placed the highest number of orders in the beauty category, totaling 145, while teens accounted for the lowest orders (12) in the clothing category. This highlights a significant adult preference for beauty products.
 
