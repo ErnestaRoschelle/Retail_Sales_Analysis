@@ -17,7 +17,7 @@ The retail company has significant amount of data on its sales category wise ,ag
 
 The SQL queries utilized to answer business questions can be found [here](https://github.com/ErnestaRoschelle/Retail_Sales_Analysis/blob/main/retail_sales_analysis.sql)
 
-To view Power BI Dashboard click this link [here](https://app.powerbi.com/viewr=eyJrIjoiZGIzNTY0MzQtM2M5ZC00ZDUyLTgxMTgtNDBjOTUyZGM2ZTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+To view Power BI Dashboard click this link here - > (<iframe title="retail_sales_analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGIzNTY0MzQtM2M5ZC00ZDUyLTgxMTgtNDBjOTUyZGM2ZTMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 ## 2.Data Structure and Overview
 
